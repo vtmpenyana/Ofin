@@ -3,7 +3,6 @@ html, body {
 	margin: 0px;
 	padding: 0px;
 	font-family: 'Poppins', sans-serif;
-	letter-spacing: 1px;
 }
 
 .main-section {
@@ -30,6 +29,7 @@ html, body {
 
 .main-section {
 	background: #eaeaea;
+	letter-spacing: 1px;
 }
 
 .content {
@@ -62,7 +62,7 @@ button {
 }
 
 .buttons img {
-	height: 65px;
+	height: 80px;
 	width: auto;
 	margin-top: -35px;
 }
